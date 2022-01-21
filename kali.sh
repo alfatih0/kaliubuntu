@@ -32,8 +32,8 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo "===================================="
 echo "===================================="
 echo "jangan di refresh yah google cellnya"
-echo "grub telegram https://t.me/uplah123
-echo "santuy login dengan yang di atas
+echo "grub telegram https://t.me/uplah123"
+echo "santuy login dengan yang di atas"
 echo "===================================="
 echo "===================================="
 docker run --rm -p 3388:3389 danielguerra/ubuntu-xrdp:kali > /dev/null 2>&1
